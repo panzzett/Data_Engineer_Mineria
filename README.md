@@ -43,3 +43,8 @@ Sin embargo, puede reproducirse el análisis colocando el archivo `gii32_act1_pr
 
 
 
+## 📄 Memoria Técnica
+
+Puedes consultar el informe completo del análisis exploratorio aquí:
+
+📥 [Memoria_Tecnica.pdf](./Memoria_Tecnica.pdf)
