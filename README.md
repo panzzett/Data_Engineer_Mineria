@@ -32,3 +32,14 @@ El dataset podría ser base para:
 Carlos Gálvez
 
 > Este proyecto se realizó como parte de una actividad académica de análisis de datos.
+
+## 📂 Sobre el dataset
+
+Por motivos de tamaño o derechos de distribución, el archivo `.csv` original no se incluye en este repositorio.
+
+Sin embargo, puede reproducirse el análisis colocando el archivo `gii32_act1_precios_carburantes_24.csv` en el mismo directorio que el notebook.
+
+📝 Este dataset se obtuvo originalmente de la fuente oficial [Geoportal de Hidrocarburos (Ministerio)](https://geoportalgasolineras.es).
+
+
+
